@@ -1,5 +1,5 @@
 #include "msp430.h"
-int ARMUT;
+int numbers;
 
 int main() {
   // Stop watchdog timer to prevent reset time out
