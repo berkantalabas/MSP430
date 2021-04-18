@@ -1,9 +1,6 @@
 
 
 //dddddddddddddddddddddddddddd
-// adanaya
-//gidekmi
-
 /*
  * This file is part of the MSP430 PWM example. It controls two servos on P1.6 and P2.2.
  *
