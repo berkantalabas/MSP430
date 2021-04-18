@@ -24,7 +24,7 @@ int main() {
     if (TACTL & TAIFG) {
       P1OUT ^= BIT0;
       TACTL &= ~TAIFG;
-      ARMUT ^= BIT0;
+      number ^= BIT0;
     }
   }
 }
